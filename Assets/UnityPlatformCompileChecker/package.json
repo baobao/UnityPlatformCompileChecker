@@ -1,0 +1,11 @@
+{
+  "name": "info.shibuya24.platform-compile-checker",
+  "displayName": "PlatformCompileChecker",
+  "version": "1.0.0",
+  "unity": "6000.0.51f1",
+  "description": "Compilation check tools for each platform.",
+  "keywords": [ "Unity", "C#", "git" ],
+  "license": "MIT",
+  "category": "Unity",
+  "dependencies": {}
+}
